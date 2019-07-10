@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="http://cgxcollective" name="cgxcollective"/>
+
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/poky.git" remote="cgxcollective" path="layers/poky" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-openembedded.git" remote="cgxcollective" path="layers/meta-openembedded" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-clang.git" remote="cgxcollective" path="layers/meta-clang" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-virtualization.git" remote="cgxcollective" path="layers/meta-virtualization" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-qa.git" remote="cgxcollective" path="layers/meta-qa" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-cgx" remote="cgxcollective" path="layers/meta-montavista-cgx" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-selinux.git" remote="cgxcollective" path="layers/meta-selinux" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-security.git" remote="cgxcollective" path="layers/meta-security" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-cgl.git" remote="cgxcollective" path="layers/meta-cgl" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-cloud-services.git" remote="cgxcollective" path="layers/meta-cloud-services" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-cgl" remote="cgxcollective" path="layers/meta-montavista-cgl" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-security" remote="cgxcollective" path="layers/meta-montavista-security" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-virt.git" remote="cgxcollective" path="layers/meta-montavista-virt" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-dpdk.git" remote="cgxcollective" path="layers/meta-dpdk" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-dataplane.git" remote="cgxcollective" path="layers/meta-montavista-dataplane" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-java.git" remote="cgxcollective" path="layers/meta-java" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-iot" remote="cgxcollective" path="layers/meta-montavista-iot" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-qt5.git" remote="cgxcollective" path="layers/meta-qt5" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-graphics" remote="cgxcollective" path="layers/meta-montavista-graphics" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-x86-generic-4.19.git" remote="cgxcollective" path="layers/meta-montavista-x86-generic-4.19" revision="thud"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/source-repos/linux-mvista-2.6" remote="cgxcollective" path="sources/linux-mvista-2.6" revision="mvl-4.19/msd.cgx"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/source-repos/yocto-kernel-cache.git" remote="cgxcollective" path="sources/yocto-kernel-cache" revision="yocto-4.19"/>
+	<project name="cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/x86-generic-64-4.19-2.6-cgx" remote="cgxcollective" path="." revision="master"/>
+</manifest>

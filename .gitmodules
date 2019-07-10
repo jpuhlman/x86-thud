@@ -1,0 +1,88 @@
+[submodule "sources/linux-mvista-2.6"]
+	path = sources/linux-mvista-2.6
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/source-repos/linux-mvista-2.6.git
+	branch = mvl-4.19/msd.cgx
+[submodule "sources/yocto-kernel-cache"]
+	path = sources/yocto-kernel-cache
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/source-repos/yocto-kernel-cache.git
+	branch = yocto-4.19
+[submodule "layers/poky"]
+	path = layers/poky
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/poky.git
+	branch = thud
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-openembedded.git
+	branch = thud
+[submodule "layers/meta-clang"]
+	path = layers/meta-clang
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-clang.git
+	branch = thud
+[submodule "layers/meta-virtualization"]
+	path = layers/meta-virtualization
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-virtualization.git
+	branch = thud
+[submodule "layers/meta-qa"]
+	path = layers/meta-qa
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-qa.git
+	branch = thud
+[submodule "layers/meta-montavista-cgx"]
+	path = layers/meta-montavista-cgx
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-cgx.git
+	branch = thud
+[submodule "layers/meta-selinux"]
+	path = layers/meta-selinux
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-selinux.git
+	branch = thud
+[submodule "layers/meta-security"]
+	path = layers/meta-security
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-security.git
+	branch = thud
+[submodule "layers/meta-cgl"]
+	path = layers/meta-cgl
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-cgl.git
+	branch = thud
+[submodule "layers/meta-cloud-services"]
+	path = layers/meta-cloud-services
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-cloud-services.git
+	branch = thud
+[submodule "layers/meta-montavista-cgl"]
+	path = layers/meta-montavista-cgl
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-cgl.git
+	branch = thud
+[submodule "layers/meta-montavista-security"]
+	path = layers/meta-montavista-security
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-security.git
+	branch = thud
+[submodule "layers/meta-montavista-virt"]
+	path = layers/meta-montavista-virt
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-virt.git
+	branch = thud
+[submodule "layers/meta-dpdk"]
+	path = layers/meta-dpdk
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-dpdk.git
+	branch = thud
+[submodule "layers/meta-montavista-dataplane"]
+	path = layers/meta-montavista-dataplane
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-dataplane.git
+	branch = thud
+[submodule "layers/meta-java"]
+	path = layers/meta-java
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-java.git
+	branch = thud
+[submodule "layers/meta-montavista-iot"]
+	path = layers/meta-montavista-iot
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-iot.git
+	branch = thud
+[submodule "layers/meta-qt5"]
+	path = layers/meta-qt5
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-qt5.git
+	branch = thud
+[submodule "layers/meta-montavista-graphics"]
+	path = layers/meta-montavista-graphics
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-graphics.git
+	branch = thud
+[submodule "layers/meta-montavista-x86-generic-4.19"]
+	path = layers/meta-montavista-x86-generic-4.19
+	url = http://cgxcollective/cgx2.6/dev/msdbuilds/x86-generic-64-4.19-2.6/190709172150/remote-layers/meta-montavista-x86-generic-4.19.git
+	branch = thud
